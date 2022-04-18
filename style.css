@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code&display=swap');
+
+#container {
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+h1 {
+    font-family: 'M PLUS 1 Code', sans-serif;
+    text-align: center;
+}
